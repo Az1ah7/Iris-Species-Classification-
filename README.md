@@ -7,5 +7,5 @@
 <br>
 
 ## Model
-##### I implemented a classification model using a  Sequential API in Keras. The model is trained on the iris dataset to predict the species of iris flowers based on their features.
+##### The implemented a classification model is Sequential API in Keras. The model is trained on the iris dataset to predict the species of iris flowers based on their features.
 
